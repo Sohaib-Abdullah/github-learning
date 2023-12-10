@@ -4,11 +4,10 @@ const Navbar = () => {
   return (
     <div>
       <h1 align="center" color="green">
-        Admire College
+        Noukez School
       </h1>
       <h1>Rise College</h1>
-      <h1>Bashira College</h1>
-      <h1>Bashiri Uni Multan</h1>
+      <h1>Admire College</h1>
     </div>
   );
 };

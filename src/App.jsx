@@ -2,6 +2,8 @@ import Detail from "./components/detail/Detail";
 import Hero from "./components/hero/Hero";
 import Info from "./components/info/Info";
 import Navbar from "./components/navbar/Navbar";
+import Student from "./components/student/Student";
+
 
 function App() {
   return (
@@ -9,7 +11,8 @@ function App() {
       <Navbar />
       <Hero />
       <Detail />
-      <Info/>
+      <Info />
+      <Student/>
     </div>
   );
 }

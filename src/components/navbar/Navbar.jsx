@@ -3,7 +3,9 @@ import React from "react";
 const Navbar = () => {
   return (
     <div>
-      <h1 align="center">GHS BUCH MULTAN</h1>
+      <h1 align="center" color="green">
+        GHS BUCH MULTAN.
+      </h1>
     </div>
   );
 };

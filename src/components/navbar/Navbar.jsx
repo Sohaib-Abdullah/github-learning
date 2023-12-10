@@ -6,8 +6,8 @@ const Navbar = () => {
       <h1 align="center" color="green">
         Admire College
       </h1>
-      <h1>Stack College</h1>
-      <h1>Muslaim College</h1>
+      <h1> Pubjab College</h1>
+      
     </div>
   );
 };

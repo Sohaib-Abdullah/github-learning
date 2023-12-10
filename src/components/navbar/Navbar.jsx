@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <div>
       <h1 align="center" color="green">
-        GHS BUCH MULTAN.
+        GHS KHOKHARAN MULTAN.
       </h1>
     </div>
   );

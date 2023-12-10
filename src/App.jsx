@@ -3,7 +3,7 @@ import Hero from "./components/hero/Hero";
 import Info from "./components/info/Info";
 import Navbar from "./components/navbar/Navbar";
 import Student from "./components/student/Student";
-
+import Teachers from "./components/teacher/Teachers";
 
 function App() {
   return (
@@ -12,7 +12,8 @@ function App() {
       <Hero />
       <Detail />
       <Info />
-      <Student/>
+      <Student />
+      <Teachers />
     </div>
   );
 }

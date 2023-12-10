@@ -10,6 +10,7 @@ const Navbar = () => {
       <h1>Admire College</h1>
       <h1>Affan Khan</h1>
       <h1>Shehram Khan</h1>
+      <h1>Abdullah Khan</h1>
     </div>
   );
 };

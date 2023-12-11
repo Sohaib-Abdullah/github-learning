@@ -11,6 +11,11 @@ const Navbar = () => {
       <h1>Affan Khan</h1>
       <h1>Shehram Khan</h1>
       <h1>Waseem Akram</h1>
+      <h1>Waseem Akram</h1>
+      <h1>Waseem Akram</h1>
+      <h1>Waseem Akram</h1>
+      <h1>Waseem Akram</h1>
+      <h1>Waseem Akram</h1>
     </div>
   );
 };

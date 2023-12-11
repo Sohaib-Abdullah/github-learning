@@ -8,7 +8,7 @@ const Navbar = () => {
       </h1>
       <h1>Rise College</h1>
       <h1>Admire College</h1>
-      <h1>Affan Khan</h1>
+      <h1>Affan ali</h1>
       <h1>Shehram Khan</h1>
       <h1>Shehram Khan</h1>
       <h1>Shehram Khan</h1>
